@@ -4,12 +4,12 @@
 > A Kong plugin that will mirror original request to other endpoints.
 
 ## Description
----
+
 
 This is a plugin like nginx ```mirror``` directive. It can mirror origin request to one or more endpoint.
 
 ## Configuration
----
+
 
 ```json
 {
@@ -34,12 +34,12 @@ This is a plugin like nginx ```mirror``` directive. It can mirror origin request
 
 
 ## Author
----
+
 
 tarepanda1024
 
 ## Liscence
----
+
 
 MIT License
 
